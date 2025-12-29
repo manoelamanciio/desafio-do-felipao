@@ -27,3 +27,7 @@ for (let i = 0; i <= 1; i++) {
     "O Héroi de nome " + nomePersonagem + " está no nível de " + nivel + "!!"
   );
 }
+
+
+#SAIDA TERMINAL :  INÍCIO    
+O Héroi de nome Dark Lord está no nível de Ascendente!!
